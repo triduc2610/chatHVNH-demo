@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80751295809",
+    "project_id": "hvnhchat-demo",
+    "storage_bucket": "hvnhchat-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80751295809:android:784331a353534fa65175c0",
+        "android_client_info": {
+          "package_name": "com.example.chathvnh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNrJ4joxexaO0BEeF9BtvD33ugq2tX4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80751295809:android:0617cb51ec13a9685175c0",
+        "android_client_info": {
+          "package_name": "com.example.hvnhdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNrJ4joxexaO0BEeF9BtvD33ugq2tX4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
